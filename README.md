@@ -1,2 +1,2 @@
-# Vim-
+# Vim
 vim配置
